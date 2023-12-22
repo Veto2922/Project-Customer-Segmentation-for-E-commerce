@@ -70,6 +70,9 @@ This project focuses on customer segmentation using K-means clustering and PCA (
 
 - Creating a simple dashboard for non-technical users to visualize key insights.
 
+![Screenshot 2023-12-22 172308](https://github.com/Veto2922/Project-Customer-Segmentation-for-E-commerce/assets/114834171/0427c14b-c9ba-4c24-846f-fdb383fbf77d)
+
+
 ## Hypothesis Testing
 
 - Concluding that hypothesis testing is not necessary for this project.
